@@ -35,4 +35,5 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+* Welcome to this coding world! 
+* How are you doing today? Ready for a new experience? 

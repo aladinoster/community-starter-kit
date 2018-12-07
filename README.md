@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+This is **Probot** a nice way to welcome you to code in new repositories!
 
 ## What it does
 
-FEATURES PLACEHOLDER
+**Probot** is an app that helps contributors have a better place to work. It adds interactive messages so users feel a more dynamic interaction with the coding world.
 
 ## Getting started
 
